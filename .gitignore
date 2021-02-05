@@ -2,11 +2,17 @@
 .idea/
 .vscode/
 
-# Hugo
-exampleSite/public/
-
 # Jupyter
 .ipynb_checkpoints/
 
 # Node
 node_modules/
+
+# Hugo
+resources/
+
+# Mac
+.DS_Store
+
+# Test
+test/go.sum
